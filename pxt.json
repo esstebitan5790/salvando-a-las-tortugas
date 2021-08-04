@@ -1,5 +1,6 @@
 {
     "name": "salvando a las tortugas",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
